@@ -1,2 +1,2 @@
-# ragbox
+# contextly
 rag visualizer
